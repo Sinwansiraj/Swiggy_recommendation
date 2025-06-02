@@ -1,0 +1,18 @@
+# Python venv
+.venv/
+venv/
+
+# Bytecode caches
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/cache/
+
+# Data & models (if you don’t want them versioned)
+*.csv
+*.npz
+*.pkl
