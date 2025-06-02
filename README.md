@@ -2,7 +2,10 @@
 
 > 🍽️ A lightweight recommendation engine for Indian restaurants, powered by Python, scikit-learn, and Streamlit.
 
----
+---## Project Preview
+
+![App Preview](preview.gif)
+
 
 ## 🚀 Project Overview
 
